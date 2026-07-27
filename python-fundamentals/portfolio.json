@@ -1,0 +1,9 @@
+{
+    "Cash": 198500,
+    "Positions": {
+        "AAPL": 260,
+        "MSFT": 120,
+        "NVDA": 320,
+        "GOOGL": 220
+    }
+}
